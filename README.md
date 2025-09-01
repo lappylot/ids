@@ -1,5 +1,6 @@
 # Hypertime IDS
  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d972fa4-953d-45fe-8e63-a2e0a3cb5069" />
 
 Hypertime IDS is a **quantum-inspired Intrusion Detection System (IDS)** designed for experimental research into post-quantum security and alerting.
 This version runs in **alert-only mode**, logging suspicious activity without blocking traffic.
